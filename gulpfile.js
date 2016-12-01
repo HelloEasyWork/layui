@@ -1,5 +1,5 @@
 /**
- layui构建
+ layui构建 
 */
 
 var pkg = require('./package.json');
